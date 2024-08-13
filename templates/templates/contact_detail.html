@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ contact.name }}</title>
+</head>
+<body>
+    <h1>{{ contact.name }}</h1>
+    <p>Phone: {{ contact.phone }}</p>
+    <p>Email: {{ contact.email }}</p>
+    <p>Description: {{ contact.description }}</p>
+    {% if contact.photo %}
+        <img src="{{ contact.photo.url }}" alt="{{ contact.name }}" />
+    {% endif %}
+    <a href="{% url 'contact_edit' contact.id %}">Edit</a>
+    <a href="{% url 'contact_delete' contact.id %}">Delete</a>
+    <a href="{% url 'contact_list' %}">Back to List</a>
+</body>
+</html>
