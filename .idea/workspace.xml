@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7597bb96-74a5-4f63-aec1-da5395084785" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/agenda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agenda/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/contact_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/contact_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/contact_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/templates/contact_list.html" afterDir="false" />
-    </list>
+    <list default="true" id="7597bb96-74a5-4f63-aec1-da5395084785" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +94,7 @@
       <workItem from="1723386363185" duration="16000" />
       <workItem from="1723386423102" duration="1672000" />
       <workItem from="1723390907902" duration="1115000" />
-      <workItem from="1723505476580" duration="2288000" />
+      <workItem from="1723505476580" duration="2597000" />
     </task>
     <servers />
   </component>
